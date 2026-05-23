@@ -1,9 +1,9 @@
 MAIN KEYWORDS:
-zettlr vs obsidian
+Zettlr vs obsidian
 Zettlr markdown editor
 Zettlr zettelkasten
-Zettlr note taking
+Zettlr note taking app
 Zettlr academic writing
 
 ALL KEYWORDS:
-zettlr vs obsidian, Zettlr markdown editor, Zettlr zettelkasten, Zettlr note taking, Zettlr academic writing, markdown editor, obsidian alternative, typora alternative, markdown, obsidian, typora, marktext, joplin, logseq, zettelkasten
+Zettlr vs obsidian, Zettlr markdown editor, Zettlr zettelkasten, Zettlr note taking app, Zettlr academic writing, markdown editor, obsidian alternative, typora alternative, markdown, obsidian, typora, marktext, joplin, logseq, zettelkasten
