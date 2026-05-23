@@ -6,4 +6,4 @@ scrcpy windows
 scrcpy linux
 
 ALL KEYWORDS:
-scrcpy android, scrcpy download, scrcpy github, scrcpy windows, scrcpy linux, install scrcpy, scrcpy for windows, scrcpy mac, genymobile scrcpy, scrcpy wireless, how to use scrcpy, scrcpy github download, scrcpy wifi, scrcpy apk, download scrcpy for windows, scrcpy gui, scrcpy usb, scrcpy mirror android, scrcpy remote control
+scrcpy android, scrcpy download, scrcpy github, scrcpy windows, scrcpy linux, install scrcpy, scrcpy for windows, scrcpy mac, genymobile scrcpy, scrcpy wireless, how to use scrcpy, scrcpy github download, scrcpy wifi, scrcpy apk, download scrcpy for windows, scrcpy gui, github, scrcpy screen mirror, scrcpy android control
